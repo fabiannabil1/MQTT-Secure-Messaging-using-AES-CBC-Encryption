@@ -12,8 +12,8 @@ import hashlib
 # Konfigurasi MQTT
 BROKER = "103.127.97.36"
 PORT = 1883
-USERNAME = "duricare"
-PASSWORD = "100704"
+USERNAME = "----"
+PASSWORD = "----"
 TOPIC_PREFIX = "chat/"
 
 # Default AES Key
